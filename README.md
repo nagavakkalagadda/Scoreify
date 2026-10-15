@@ -1,2 +1,0 @@
-# Scoreify
-Local-Cricket-Scoreboard
