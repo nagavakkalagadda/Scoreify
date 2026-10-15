@@ -1,4 +1,5 @@
-# 🏏 Local Cricket Scoreboard — Pro Match & Super Over Edition
+# SCOREIFY
+# 🏏 GULLY Cricket Scoreboard — Pro Match & Super Over Edition
 
 > **⚡ Zero-Install Digital Cricket Scorer for Local Tournaments, Club Matches & Ground Organizers**
 >
